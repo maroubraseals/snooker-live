@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/snooker-live/static/css/main.90e6ef07.css",
-    "main.js": "/snooker-live/static/js/main.6557cbdf.js",
+    "main.js": "/snooker-live/static/js/main.6cd4dbb1.js",
     "static/js/453.b6045f16.chunk.js": "/snooker-live/static/js/453.b6045f16.chunk.js",
     "static/media/LogoBlack.png": "/snooker-live/static/media/LogoBlack.3345f82073bc9250ce69.png",
     "index.html": "/snooker-live/index.html",
     "main.90e6ef07.css.map": "/snooker-live/static/css/main.90e6ef07.css.map",
-    "main.6557cbdf.js.map": "/snooker-live/static/js/main.6557cbdf.js.map",
+    "main.6cd4dbb1.js.map": "/snooker-live/static/js/main.6cd4dbb1.js.map",
     "453.b6045f16.chunk.js.map": "/snooker-live/static/js/453.b6045f16.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.90e6ef07.css",
-    "static/js/main.6557cbdf.js"
+    "static/js/main.6cd4dbb1.js"
   ]
 }
